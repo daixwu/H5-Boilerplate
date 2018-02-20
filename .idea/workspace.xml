@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc723936-744c-4e14-9bbe-116110ef95da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -101,22 +99,22 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="8" column="86" lean-forward="true" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+              <first_editor relative-caret-position="581">
+                <caret line="220" column="86" lean-forward="true" selection-start-line="220" selection-start-column="86" selection-end-line="220" selection-end-column="86" />
                 <folding>
-                  <marker date="1519140036137" expanded="true" signature="1277:1539" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="1287:1408" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="1425:1537" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="1555:2160" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="2000:2158" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="2090:2152" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="3195:3866" ph="{&quot;PCQRcode&quot;: ''...}" />
-                  <marker date="1519140036137" expanded="true" signature="3566:3828" ph="{&quot;img&quot;: 'http://h5.m.jd.com/active/2G81HfPDtVb2HtcNrvka9ikam56u/pages/14313/img/logo.jpeg'...}" />
-                  <marker date="1519140036137" expanded="true" signature="4272:4629" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="4320:4626" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="4362:4443" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="4484:4531" ph="{...}" />
-                  <marker date="1519140036137" expanded="true" signature="4575:4620" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1179:1441" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1189:1310" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1327:1439" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1457:2062" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1902:2060" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="1992:2054" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="3097:3768" ph="{&quot;PCQRcode&quot;: ''...}" />
+                  <marker date="1519140684625" expanded="true" signature="3468:3730" ph="{&quot;img&quot;: 'http://h5.m.jd.com/active/2G81HfPDtVb2HtcNrvka9ikam56u/pages/14313/img/logo.jpeg'...}" />
+                  <marker date="1519140684625" expanded="true" signature="4174:4531" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="4222:4528" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="4264:4345" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="4386:4433" ph="{...}" />
+                  <marker date="1519140684625" expanded="true" signature="4477:4522" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -251,6 +249,23 @@
               <item name="H5-Boilerplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="H5-Boilerplate" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="H5-Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5-Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5-Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5-Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5-Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5-Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -317,12 +332,12 @@
       <workItem from="1518405892326" duration="131000" />
       <workItem from="1518406048864" duration="937000" />
       <workItem from="1518407239978" duration="28713000" />
-      <workItem from="1519139251079" duration="460000" />
+      <workItem from="1519139251079" duration="740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40766000" />
+    <option name="totallyTimeSpent" value="41046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -716,22 +731,22 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="8" column="86" lean-forward="true" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+          <first_editor relative-caret-position="581">
+            <caret line="220" column="86" lean-forward="true" selection-start-line="220" selection-start-column="86" selection-end-line="220" selection-end-column="86" />
             <folding>
-              <marker date="1519140036137" expanded="true" signature="1277:1539" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="1287:1408" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="1425:1537" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="1555:2160" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="2000:2158" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="2090:2152" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="3195:3866" ph="{&quot;PCQRcode&quot;: ''...}" />
-              <marker date="1519140036137" expanded="true" signature="3566:3828" ph="{&quot;img&quot;: 'http://h5.m.jd.com/active/2G81HfPDtVb2HtcNrvka9ikam56u/pages/14313/img/logo.jpeg'...}" />
-              <marker date="1519140036137" expanded="true" signature="4272:4629" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="4320:4626" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="4362:4443" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="4484:4531" ph="{...}" />
-              <marker date="1519140036137" expanded="true" signature="4575:4620" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1179:1441" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1189:1310" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1327:1439" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1457:2062" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1902:2060" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="1992:2054" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="3097:3768" ph="{&quot;PCQRcode&quot;: ''...}" />
+              <marker date="1519140684625" expanded="true" signature="3468:3730" ph="{&quot;img&quot;: 'http://h5.m.jd.com/active/2G81HfPDtVb2HtcNrvka9ikam56u/pages/14313/img/logo.jpeg'...}" />
+              <marker date="1519140684625" expanded="true" signature="4174:4531" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="4222:4528" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="4264:4345" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="4386:4433" ph="{...}" />
+              <marker date="1519140684625" expanded="true" signature="4477:4522" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

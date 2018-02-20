@@ -4,9 +4,6 @@
 针对微信移动web场景的动效模板脚手架，可用来制作翻页动画，各种推广宣传H5页面。包括移动端自适应（rem 或 zoom），雪碧图合并，hot reload，以及翻屏组件，重力感应，微信分享等一系列的开发库，通过webpack进行打包发布。
 
 基于webpack，同时加了一些市面上比较好的公用组件库，以及自己开发定制的组件，可选择性引用，这里只需关注业务逻辑，其他的已经帮你做好了！
-## From: 
-
-[https://github.com/l-zhi/O2H5-Boilerplate](https://github.com/l-zhi/O2H5-Boilerplate)
 
 **『 Boilerplate 主要功能 』**
 
@@ -220,4 +217,5 @@ npm run build
 - 重力感应 [参考地址](https://github.com/shrekshrek/orienter)
 - Threejs WebGl，3D动画库 [参考地址](https://threejs.org/)
 
-ｂ（￣▽￣）ｄ 感谢！~
+## From: 
+[https://github.com/l-zhi/O2H5-Boilerplate](https://github.com/l-zhi/O2H5-Boilerplate)
