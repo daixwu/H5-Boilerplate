@@ -4,7 +4,9 @@
 针对微信移动web场景的动效模板脚手架，可用来制作翻页动画，各种推广宣传H5页面。包括移动端自适应（rem 或 zoom），雪碧图合并，hot reload，以及翻屏组件，重力感应，微信分享等一系列的开发库，通过webpack进行打包发布。
 
 基于webpack，同时加了一些市面上比较好的公用组件库，以及自己开发定制的组件，可选择性引用，这里只需关注业务逻辑，其他的已经帮你做好了！
+## From: 
 
+[https://github.com/l-zhi/O2H5-Boilerplate](https://github.com/l-zhi/O2H5-Boilerplate)
 
 **『 Boilerplate 主要功能 』**
 
@@ -188,30 +190,6 @@ function start(){
 npm run build
 ```
 发布的时候代码可以直接用 **./project** （默认发布代码地址）
-
-**『 演示 』**
-
-下面的是各种简单示例，扫一下吧~
-
-Examples-all:
-
-![扫一扫](http://img11.360buyimg.com/jdphoto/s194x195_jfs/t3505/22/345911806/6642/894c6a6c/580733e7N0150e47b.png)
-
-Examples-threejs:
-
-![扫一扫](http://img11.360buyimg.com/jdphoto/s192x193_jfs/t3724/272/981318967/4210/13d5f89d/58199d9cN1ca8fb35.png)
-
-Examples-inout-slider:
-
-![扫一扫](http://img11.360buyimg.com/jdphoto/s196x193_jfs/t3646/14/954371307/4087/a8d75613/5819acccN9c4a6c55.png)
-
-Examples-1:
-
-![扫一扫](http://img11.360buyimg.com/jdphoto/s196x197_jfs/t3691/12/1002202878/4204/f2f29abe/58199f1dN5c6c8f86.png)
-
-其他:
-
-![扫一扫](http://img11.360buyimg.com/jdphoto/s193x194_jfs/t3349/256/936515502/4035/950cc046/5819adb7Nfc4c79da.png)
 
 #### 『 插件列表 』
 * [webpack](https://webpack.github.io/): is a module bundler
