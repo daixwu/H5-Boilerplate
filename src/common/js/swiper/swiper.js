@@ -1,3 +1,4 @@
+require("./swiper.min.css")
 /**
  * Swiper 4.1.0
  * Most modern mobile touch slider and framework with hardware accelerated transitions
